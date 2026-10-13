@@ -1,146 +1,146 @@
-id,name,position,age,current_club,market_value,salary,total_days_injured,total_games_missed,injury_count,is_goalkeeper
-1,Julen Agirrezabala,GK,25,Racing Sant,9000000.00,60833.33,39,1,1,True
-2,Lucien Agoume,MF,24,Sevilla,15000000.00,86666.67,72,10,2,False
-3,Kristoffer Ajer,DF,28,Brentford,18000000.00,196278.50,162,33,5,False
-4,Clément Akpa,DF,24,Auxerre,9000000.00,75833.33,18,3,1,False
-5,Alisson,GK,34,Liverpool,15000000.00,736044.33,202,50,7,True
-6,Antony,MF,26,Real Betis,40000000.00,260833.33,16,4,1,False
-7,Jon Aramburu,DF,24,Real Sociedad,15000000.00,20833.33,0,0,0,False
-8,Álex Baena,MF,25,Atlético Madrid,40000000.00,166666.67,20,5,2,False
-9,Nicolò Barella,MF,29,Inter,50000000.00,1003333.33,59,15,5,False
-10,Calvin Bassey,DF,26,Fulham,28000000.00,220813.33,4,1,1,False
-11,Héctor Bellerín,DF,31,Real Betis,2400000.00,260000.00,118,23,1,False
-12,Jude Bellingham,MF,23,Real Madrid,130000000.00,1735833.33,67,16,4,False
-13,Antonio Blanco,MF,26,Alavés,10000000.00,41666.67,7,1,1,False
-14,Sven Botman,DF,26,Newcastle,35000000.00,441626.58,446,59,5,False
-15,Jarrad Branthwaite,DF,24,Everton,40000000.00,588835.50,138,15,3,False
-16,Abel Bretones,DF,26,Osasuna,3500000.00,26666.67,0,0,0,False
-17,Ante Budimir,FW,35,Osasuna,2800000.00,112500.00,28,4,1,False
-18,Lamine Camara,MF,22,Monaco,40000000.00,115000.00,34,3,3,False
-19,Ousmane Camara,DF,23,Angers,8000000.00,37500.00,0,0,0,False
-20,Sergio Camello,FW,25,Rayo Vallecano,3000000.00,54166.67,0,0,0,False
-21,Elia Caprile,GK,25,Cagliari,15000000.00,117500.00,60,11,3,True
-22,Marco Carnesecchi,GK,26,Atalanta,30000000.00,123333.33,11,3,1,True
-23,Sergio Carreira,MF,25,Celta Vigo,12000000.00,50000.00,0,0,0,False
-24,Cristian Cásseres Jr.,MF,26,Toulouse,9000000.00,83333.33,0,0,0,False
-25,Pathé Ciss,DF,32,Rayo Vallecano,1800000.00,28333.33,0,0,0,False
-26,Lassana Coulibaly,MF,30,Lecce,2200000.00,64166.67,0,0,0,False
-27,Thibaut Courtois,GK,34,Real Madrid,15000000.00,1250000.00,363,74,8,True
-28,Charlie Cresswell,DF,24,Rennes,25000000.00,83333.33,36,7,1,False
-29,Arnaut Danjuma,MF,29,Valencia,3000000.00,260833.33,30,6,2,False
-30,Kévin Danois,MF,22,Auxerre,20000000.00,83333.33,89,12,3,False
-31,Koni De Winter,DF,24,Milan,23000000.00,262500.00,148,25,4,False
-32,Enrico Delprato,DF,26,Parma,6000000.00,139166.67,14,2,2,False
-33,Giovanni Di Lorenzo,DF,33,Napoli,7500000.00,463333.33,3,1,1,False
-34,Rúben Dias,DF,29,Manchester City,55000000.00,1226740.58,53,13,3,False
-35,Eric Dier,DF,32,Monaco,4000000.00,287500.00,133,17,8,False
-36,Stole Dimitrievski,GK,32,Valencia,2000000.00,103333.33,0,0,0,True
-37,Issa Diop,DF,29,Ipswich Town,8000000.00,343487.33,115,16,3,False
-38,Yehvann Diouf,GK,26,Nice,7000000.00,242500.00,0,0,0,True
-39,Marko Dmitrović,GK,34,Espanyol,700000.00,43333.33,3,1,1,True
-40,Gianluigi Donnarumma,GK,27,Manchester City,45000000.00,1256505.00,16,1,1,True
-41,Radu Drăgușin,DF,24,Fiorentina,16000000.00,417091.75,335,52,1,False
-42,Edu Expósito,MF,30,Espanyol,5000000.00,100000.00,0,0,0,False
-43,Wladimiro Falcone,GK,31,Lecce,3500000.00,92500.00,0,0,0,True
-44,Lewis Ferguson,MF,27,Bologna,14000000.00,106666.67,238,36,3,False
-45,Bruno Fernandes,MF,32,Manchester Utd,35000000.00,1472088.67,13,2,1,False
-46,Roberto Férnandez,FW,24,Espanyol,10000000.00,35000.00,0,0,0,False
-47,Pablo Fornals,MF,30,Real Betis,8000000.00,260000.00,66,14,2,False
-48,Morten Frendrup,MF,25,Genoa,15000000.00,85833.33,18,3,1,False
-49,Álvaro García,MF,33,Rayo Vallecano,1500000.00,120833.33,0,0,0,False
-50,Andrés García,MF,23,Getafe,6000000.00,73604.42,0,0,0,False
-51,Eric García,DF,25,Barcelona,40000000.00,500000.00,119,22,6,False
-52,Fran Garcia,DF,27,Real Betis,10000000.00,434166.67,0,0,0,False
-53,Joan García,GK,25,Barcelona,45000000.00,20000.00,0,0,0,True
-54,David de Gea,GK,35,Fiorentina,3500000.00,463333.33,0,0,0,True
-55,Morgan Gibbs-White,MF,26,Nottingham,70000000.00,539765.83,7,1,1,False
-56,Sergio Gómez,DF,26,Real Sociedad,15000000.00,191666.67,11,3,1,False
-57,Pascal Groß,MF,35,Brighton,2500000.00,471666.67,13,2,1,False
-58,Marc Guéhi,DF,26,Manchester City,70000000.00,245348.08,89,15,1,False
-59,Pape Gueye,MF,27,Villarreal,40000000.00,156666.67,0,0,0,False
-60,Erling Haaland,FW,26,Manchester City,200000000.00,2576155.17,127,25,6,False
-61,Dávid Hancko,DF,28,Atlético Madrid,35000000.00,555000.00,0,0,0,False
-62,Jan Paul van Hecke,DF,26,Tottenham,45000000.00,245348.08,70,11,3,False
-63,Javier Hernández,MF,22,Espanyol,2000000.00,70000.00,0,0,0,False
-64,Sergio Herrera,GK,33,Osasuna,2800000.00,79166.67,0,0,0,True
-65,Omar El Hilali,DF,23,Espanyol,15000000.00,17500.00,0,0,0,False
-66,James Hill,DF,24,Bournemouth,23000000.00,122674.08,91,16,3,False
-67,Lukáš Hrádecký,GK,36,Monaco,1500000.00,124166.67,6,2,1,True
-68,Pablo Ibáñez,MF,28,Alavés,4000000.00,15000.00,0,0,0,False
-69,Vitaly Janelt,MF,28,Brentford,16000000.00,147208.83,161,14,2,False
-70,Vinicius Júnior,MF,26,Real Madrid,140000000.00,1735833.33,118,24,6,False
-71,James Justin,DF,28,Leeds United,12000000.00,171743.67,10,2,1,False
-72,Filip Jørgensen,GK,24,Strasbourg,15000000.00,245348.08,0,0,0,True
-73,Pierre Kalulu,DF,26,Juventus,32000000.00,256666.67,47,12,2,False
-74,Jesper Karlström,MF,31,Udinese,4000000.00,92500.00,0,0,0,False
-75,Caoimhín Kelleher,GK,27,Brentford,28000000.00,269882.92,4,1,1,True
-76,Antonín Kinský,GK,23,Tottenham,15000000.00,147208.83,0,0,0,True
-77,Ibrahima Konaté,DF,27,Real Madrid,45000000.00,343487.33,97,21,4,False
-78,Pierre Lees-Melou,MF,33,Paris FC,4500000.00,196666.67,195,17,2,False
-79,Jordan Lefort,DF,33,Angers,1000000.00,151666.67,0,0,0,False
-80,Florian Lejeune,DF,35,Rayo Vallecano,1800000.00,104166.67,0,0,0,False
-81,Bernd Leno,GK,34,Fulham,6000000.00,637905.08,17,1,1,True
-82,Victor Lindelöf,DF,32,Aston Villa,5000000.00,588835.50,154,29,3,False
-83,Marcos Llorente,DF,31,Atlético Madrid,20000000.00,694166.67,151,21,2,False
-84,Ademola Lookman,FW,28,Atlético Madrid,40000000.00,192500.00,72,16,3,False
-85,Anthony Lopes,GK,36,Angers,900000.00,303333.33,51,6,2,True
-86,Unai López,MF,30,Rayo Vallecano,2500000.00,45000.00,0,0,0,False
-87,Harry Maguire,DF,33,Manchester Utd,8000000.00,932322.83,128,23,4,False
-88,Mike Maignan,GK,31,Milan,20000000.00,299166.67,8,1,1,True
-89,Christos Mandas,GK,25,Lazio,8000000.00,85833.33,5,2,1,True
-90,Aïssa Mandi,DF,34,Levante,1000000.00,166666.67,27,7,1,False
-91,Orel Mangala,MF,28,Getafe,9000000.00,409166.67,620,72,2,False
-92,Marquinhos,DF,32,Paris SG,28000000.00,1120833.33,108,25,6,False
-93,Josep Martinez,GK,28,Inter,10000000.00,231666.67,0,0,0,True
-94,Kylian Mbappé,FW,27,Real Madrid,180000000.00,2604166.67,36,8,4,False
-95,Bryan Mbeumo,MF,27,Manchester Utd,75000000.00,736044.33,97,19,1,False
-96,Mark McKenzie,DF,27,Toulouse,7000000.00,151666.67,8,1,1,False
-97,Johan Mojica,DF,34,Getafe,1500000.00,86666.67,52,9,2,False
-98,Jon Moncayola,MF,28,Osasuna,7000000.00,83333.33,21,2,1,False
-99,Ilaix Moriba,MF,23,Celta Vigo,15000000.00,135000.00,32,10,2,False
-100,Iker Muñoz,MF,23,Osasuna,2000000.00,60000.00,62,9,1,False
-101,Vitaliy Mykolenko,DF,27,Everton,25000000.00,284603.83,136,22,8,False
-102,Natan,DF,25,Real Betis,25000000.00,190833.33,66,8,3,False
-103,Jan Oblak,GK,33,Atlético Madrid,15000000.00,1735833.33,93,10,1,True
-104,Maduka Okoye,GK,27,Udinese,10000000.00,75000.00,93,14,1,True
-105,Mikel Oyarzabal,FW,29,Real Sociedad,25000000.00,300000.00,31,7,3,False
-106,Willian Pacho,DF,24,Paris SG,80000000.00,485000.00,0,0,0,False
-107,Strahinja Pavlović,DF,25,Milan,40000000.00,262500.00,20,1,1,False
-108,Pedri,MF,23,Barcelona,150000000.00,781666.67,288,47,7,False
-109,Jordan Pickford,GK,32,Everton,13000000.00,736044.33,0,0,0,True
-110,Raphinha,FW,29,Barcelona,70000000.00,1041666.67,61,14,3,False
-111,Andrei Ratiu,DF,28,Rayo Vallecano,18000000.00,41666.67,10,3,1,False
-112,David Raya,GK,31,Arsenal,30000000.00,490696.25,5,1,1,True
-113,Abde Rebbach,MF,28,Alavés,2500000.00,43333.33,4,1,1,False
-114,Álex Remiro,GK,31,Real Sociedad,9000000.00,233333.33,0,0,0,True
-115,Chris Richards,DF,26,Crystal Palace,28000000.00,269882.92,68,13,3,False
-116,Leo Román,GK,26,Dep. A Coruña,6000000.00,22500.00,0,0,0,True
-117,Amir Rrahmani,DF,32,Napoli,10000000.00,267500.00,36,9,3,False
-118,Matvei Safonov,GK,27,Paris SG,30000000.00,303333.33,0,0,0,True
-119,Oihan Sancet,MF,26,Athletic Club,25000000.00,208333.33,124,21,6,False
-120,Manu Sánchez,DF,26,Levante,6000000.00,83333.33,0,0,0,False
-121,Tiago Santos,DF,24,Lille,10000000.00,151666.67,320,41,1,False
-122,Martin Satriano,FW,25,Getafe,10000000.00,136666.67,212,26,3,False
-123,Giorgio Scalvini,DF,22,Atalanta,38000000.00,231666.67,394,62,12,False
-124,Matz Sels,GK,34,Nottingham,3500000.00,196278.50,8,2,1,True
-125,Antoine Semenyo,MF,26,Manchester City,80000000.00,368022.17,0,0,0,False
-126,Giuliano Simeone,MF,23,Atlético Madrid,40000000.00,41666.67,147,32,1,False
-127,Unai Simón,GK,29,Athletic Club,22000000.00,356666.67,156,29,2,True
-128,Antonio Sivera,GK,30,Alavés,6000000.00,73333.33,0,0,0,True
-129,David Soria,GK,33,Getafe,2800000.00,125833.33,0,0,0,True
-130,Luka Sučić,MF,24,Real Sociedad,10000000.00,104166.67,9,1,1,False
-131,Mile Svilar,GK,27,Roma,35000000.00,363333.33,0,0,0,True
-132,James Tarkowski,DF,33,Everton,5000000.00,588835.50,85,5,1,False
-133,Nahuel Tenaglia,DF,30,Alavés,3000000.00,37500.00,12,2,2,False
-134,Ramón Terrats,MF,25,Getafe,3000000.00,16666.67,97,14,1,False
-135,Malick Thiaw,DF,25,Newcastle,45000000.00,376951.50,36,7,2,False
-136,Enes Ünal,FW,29,Getafe,7000000.00,73604.42,945,123,5,False
-137,Germán Valera,MF,24,Elche,6000000.00,26666.67,0,0,0,False
-138,Emanuele Valeri,MF,27,Parma,3000000.00,115833.33,27,4,2,False
-139,Federico Valverde,MF,28,Real Madrid,90000000.00,1389166.67,28,4,2,False
-140,Virgil van Dijk,DF,35,Liverpool,15000000.00,1717436.75,49,9,3,False
-141,Danilo Veiga,DF,24,Lecce,2500000.00,38333.33,0,0,0,False
-142,Renato Veiga,DF,23,Villarreal,25000000.00,312500.00,34,8,2,False
-143,Bart Verbruggen,GK,24,Brighton,40000000.00,171743.67,0,0,0,True
-144,Nico Williams,MF,25,Nottingham,28000000.00,318952.58,124,17,4,False
-145,Lamine Yamal,FW,19,Barcelona,200000000.00,139166.67,64,11,5,False
+id,name,position,age,current_club,market_value,salary,injury_risk
+1,Julen Agirrezabala,GK,25,Racing Sant,9000000.0,60833.33,Moderado
+2,Lucien Agoume,MF,24,Sevilla,15000000.0,86666.67,Moderado
+3,Kristoffer Ajer,DF,28,Brentford,18000000.0,196278.5,Alto
+4,Clément Akpa,DF,24,Auxerre,9000000.0,75833.33,Baixo
+5,Alisson,GK,34,Liverpool,15000000.0,736044.33,Alto
+6,Antony,MF,26,Real Betis,40000000.0,260833.33,Baixo
+7,Jon Aramburu,DF,24,Real Sociedad,15000000.0,20833.33,Baixo
+8,Álex Baena,MF,25,Atlético Madrid,40000000.0,166666.67,Moderado
+9,Nicolò Barella,MF,29,Inter,50000000.0,1003333.33,Moderado
+10,Calvin Bassey,DF,26,Fulham,28000000.0,220813.33,Baixo
+11,Héctor Bellerín,DF,31,Real Betis,2400000.0,260000.0,Alto
+12,Jude Bellingham,MF,23,Real Madrid,130000000.0,1735833.33,Alto
+13,Antonio Blanco,MF,26,Alavés,10000000.0,41666.67,Baixo
+14,Sven Botman,DF,26,Newcastle,35000000.0,441626.58,Alto
+15,Jarrad Branthwaite,DF,24,Everton,40000000.0,588835.5,Alto
+16,Abel Bretones,DF,26,Osasuna,3500000.0,26666.67,Baixo
+17,Ante Budimir,FW,35,Osasuna,2800000.0,112500.0,Moderado
+18,Lamine Camara,MF,22,Monaco,40000000.0,115000.0,Moderado
+19,Ousmane Camara,DF,23,Angers,8000000.0,37500.0,Baixo
+20,Sergio Camello,FW,25,Rayo Vallecano,3000000.0,54166.67,Baixo
+21,Elia Caprile,GK,25,Cagliari,15000000.0,117500.0,Moderado
+22,Marco Carnesecchi,GK,26,Atalanta,30000000.0,123333.33,Baixo
+23,Sergio Carreira,MF,25,Celta Vigo,12000000.0,50000.0,Baixo
+24,Cristian Cásseres Jr.,MF,26,Toulouse,9000000.0,83333.33,Baixo
+25,Pathé Ciss,DF,32,Rayo Vallecano,1800000.0,28333.33,Baixo
+26,Lassana Coulibaly,MF,30,Lecce,2200000.0,64166.67,Baixo
+27,Thibaut Courtois,GK,34,Real Madrid,15000000.0,1250000.0,Alto
+28,Charlie Cresswell,DF,24,Rennes,25000000.0,83333.33,Moderado
+29,Arnaut Danjuma,MF,29,Valencia,3000000.0,260833.33,Moderado
+30,Kévin Danois,MF,22,Auxerre,20000000.0,83333.33,Moderado
+31,Koni De Winter,DF,24,Milan,23000000.0,262500.0,Alto
+32,Enrico Delprato,DF,26,Parma,6000000.0,139166.67,Baixo
+33,Giovanni Di Lorenzo,DF,33,Napoli,7500000.0,463333.33,Baixo
+34,Rúben Dias,DF,29,Manchester City,55000000.0,1226740.58,Moderado
+35,Eric Dier,DF,32,Monaco,4000000.0,287500.0,Alto
+36,Stole Dimitrievski,GK,32,Valencia,2000000.0,103333.33,Baixo
+37,Issa Diop,DF,29,Ipswich Town,8000000.0,343487.33,Alto
+38,Yehvann Diouf,GK,26,Nice,7000000.0,242500.0,Baixo
+39,Marko Dmitrović,GK,34,Espanyol,700000.0,43333.33,Baixo
+40,Gianluigi Donnarumma,GK,27,Manchester City,45000000.0,1256505.0,Baixo
+41,Radu Drăgușin,DF,24,Fiorentina,16000000.0,417091.75,Alto
+42,Edu Expósito,MF,30,Espanyol,5000000.0,100000.0,Baixo
+43,Wladimiro Falcone,GK,31,Lecce,3500000.0,92500.0,Baixo
+44,Lewis Ferguson,MF,27,Bologna,14000000.0,106666.67,Alto
+45,Bruno Fernandes,MF,32,Manchester Utd,35000000.0,1472088.67,Baixo
+46,Roberto Férnandez,FW,24,Espanyol,10000000.0,35000.0,Baixo
+47,Pablo Fornals,MF,30,Real Betis,8000000.0,260000.0,Moderado
+48,Morten Frendrup,MF,25,Genoa,15000000.0,85833.33,Baixo
+49,Álvaro García,MF,33,Rayo Vallecano,1500000.0,120833.33,Baixo
+50,Andrés García,MF,23,Getafe,6000000.0,73604.42,Baixo
+51,Eric García,DF,25,Barcelona,40000000.0,500000.0,Alto
+52,Fran Garcia,DF,27,Real Betis,10000000.0,434166.67,Baixo
+53,Joan García,GK,25,Barcelona,45000000.0,20000.0,Baixo
+54,David de Gea,GK,35,Fiorentina,3500000.0,463333.33,Baixo
+55,Morgan Gibbs-White,MF,26,Nottingham,70000000.0,539765.83,Baixo
+56,Sergio Gómez,DF,26,Real Sociedad,15000000.0,191666.67,Baixo
+57,Pascal Groß,MF,35,Brighton,2500000.0,471666.67,Baixo
+58,Marc Guéhi,DF,26,Manchester City,70000000.0,245348.08,Moderado
+59,Pape Gueye,MF,27,Villarreal,40000000.0,156666.67,Baixo
+60,Erling Haaland,FW,26,Manchester City,200000000.0,2576155.17,Alto
+61,Dávid Hancko,DF,28,Atlético Madrid,35000000.0,555000.0,Baixo
+62,Jan Paul van Hecke,DF,26,Tottenham,45000000.0,245348.08,Moderado
+63,Javier Hernández,MF,22,Espanyol,2000000.0,70000.0,Baixo
+64,Sergio Herrera,GK,33,Osasuna,2800000.0,79166.67,Baixo
+65,Omar El Hilali,DF,23,Espanyol,15000000.0,17500.0,Baixo
+66,James Hill,DF,24,Bournemouth,23000000.0,122674.08,Alto
+67,Lukáš Hrádecký,GK,36,Monaco,1500000.0,124166.67,Baixo
+68,Pablo Ibáñez,MF,28,Alavés,4000000.0,15000.0,Baixo
+69,Vitaly Janelt,MF,28,Brentford,16000000.0,147208.83,Alto
+70,Vinicius Júnior,MF,26,Real Madrid,140000000.0,1735833.33,Alto
+71,James Justin,DF,28,Leeds United,12000000.0,171743.67,Baixo
+72,Filip Jørgensen,GK,24,Strasbourg,15000000.0,245348.08,Baixo
+73,Pierre Kalulu,DF,26,Juventus,32000000.0,256666.67,Moderado
+74,Jesper Karlström,MF,31,Udinese,4000000.0,92500.0,Baixo
+75,Caoimhín Kelleher,GK,27,Brentford,28000000.0,269882.92,Baixo
+76,Antonín Kinský,GK,23,Tottenham,15000000.0,147208.83,Baixo
+77,Ibrahima Konaté,DF,27,Real Madrid,45000000.0,343487.33,Alto
+78,Pierre Lees-Melou,MF,33,Paris FC,4500000.0,196666.67,Alto
+79,Jordan Lefort,DF,33,Angers,1000000.0,151666.67,Baixo
+80,Florian Lejeune,DF,35,Rayo Vallecano,1800000.0,104166.67,Baixo
+81,Bernd Leno,GK,34,Fulham,6000000.0,637905.08,Baixo
+82,Victor Lindelöf,DF,32,Aston Villa,5000000.0,588835.5,Alto
+83,Marcos Llorente,DF,31,Atlético Madrid,20000000.0,694166.67,Alto
+84,Ademola Lookman,FW,28,Atlético Madrid,40000000.0,192500.0,Alto
+85,Anthony Lopes,GK,36,Angers,900000.0,303333.33,Moderado
+86,Unai López,MF,30,Rayo Vallecano,2500000.0,45000.0,Baixo
+87,Harry Maguire,DF,33,Manchester Utd,8000000.0,932322.83,Alto
+88,Mike Maignan,GK,31,Milan,20000000.0,299166.67,Baixo
+89,Christos Mandas,GK,25,Lazio,8000000.0,85833.33,Baixo
+90,Aïssa Mandi,DF,34,Levante,1000000.0,166666.67,Moderado
+91,Orel Mangala,MF,28,Getafe,9000000.0,409166.67,Alto
+92,Marquinhos,DF,32,Paris SG,28000000.0,1120833.33,Alto
+93,Josep Martinez,GK,28,Inter,10000000.0,231666.67,Baixo
+94,Kylian Mbappé,FW,27,Real Madrid,180000000.0,2604166.67,Moderado
+95,Bryan Mbeumo,MF,27,Manchester Utd,75000000.0,736044.33,Alto
+96,Mark McKenzie,DF,27,Toulouse,7000000.0,151666.67,Baixo
+97,Johan Mojica,DF,34,Getafe,1500000.0,86666.67,Moderado
+98,Jon Moncayola,MF,28,Osasuna,7000000.0,83333.33,Baixo
+99,Ilaix Moriba,MF,23,Celta Vigo,15000000.0,135000.0,Moderado
+100,Iker Muñoz,MF,23,Osasuna,2000000.0,60000.0,Moderado
+101,Vitaliy Mykolenko,DF,27,Everton,25000000.0,284603.83,Alto
+102,Natan,DF,25,Real Betis,25000000.0,190833.33,Moderado
+103,Jan Oblak,GK,33,Atlético Madrid,15000000.0,1735833.33,Alto
+104,Maduka Okoye,GK,27,Udinese,10000000.0,75000.0,Alto
+105,Mikel Oyarzabal,FW,29,Real Sociedad,25000000.0,300000.0,Moderado
+106,Willian Pacho,DF,24,Paris SG,80000000.0,485000.0,Baixo
+107,Strahinja Pavlović,DF,25,Milan,40000000.0,262500.0,Baixo
+108,Pedri,MF,23,Barcelona,150000000.0,781666.67,Alto
+109,Jordan Pickford,GK,32,Everton,13000000.0,736044.33,Baixo
+110,Raphinha,FW,29,Barcelona,70000000.0,1041666.67,Moderado
+111,Andrei Ratiu,DF,28,Rayo Vallecano,18000000.0,41666.67,Baixo
+112,David Raya,GK,31,Arsenal,30000000.0,490696.25,Baixo
+113,Abde Rebbach,MF,28,Alavés,2500000.0,43333.33,Baixo
+114,Álex Remiro,GK,31,Real Sociedad,9000000.0,233333.33,Baixo
+115,Chris Richards,DF,26,Crystal Palace,28000000.0,269882.92,Moderado
+116,Leo Román,GK,26,Dep. A Coruña,6000000.0,22500.0,Baixo
+117,Amir Rrahmani,DF,32,Napoli,10000000.0,267500.0,Moderado
+118,Matvei Safonov,GK,27,Paris SG,30000000.0,303333.33,Baixo
+119,Oihan Sancet,MF,26,Athletic Club,25000000.0,208333.33,Alto
+120,Manu Sánchez,DF,26,Levante,6000000.0,83333.33,Baixo
+121,Tiago Santos,DF,24,Lille,10000000.0,151666.67,Alto
+122,Martin Satriano,FW,25,Getafe,10000000.0,136666.67,Alto
+123,Giorgio Scalvini,DF,22,Atalanta,38000000.0,231666.67,Alto
+124,Matz Sels,GK,34,Nottingham,3500000.0,196278.5,Baixo
+125,Antoine Semenyo,MF,26,Manchester City,80000000.0,368022.17,Baixo
+126,Giuliano Simeone,MF,23,Atlético Madrid,40000000.0,41666.67,Alto
+127,Unai Simón,GK,29,Athletic Club,22000000.0,356666.67,Alto
+128,Antonio Sivera,GK,30,Alavés,6000000.0,73333.33,Baixo
+129,David Soria,GK,33,Getafe,2800000.0,125833.33,Baixo
+130,Luka Sučić,MF,24,Real Sociedad,10000000.0,104166.67,Baixo
+131,Mile Svilar,GK,27,Roma,35000000.0,363333.33,Baixo
+132,James Tarkowski,DF,33,Everton,5000000.0,588835.5,Moderado
+133,Nahuel Tenaglia,DF,30,Alavés,3000000.0,37500.0,Baixo
+134,Ramón Terrats,MF,25,Getafe,3000000.0,16666.67,Alto
+135,Malick Thiaw,DF,25,Newcastle,45000000.0,376951.5,Moderado
+136,Enes Ünal,FW,29,Getafe,7000000.0,73604.42,Alto
+137,Germán Valera,MF,24,Elche,6000000.0,26666.67,Baixo
+138,Emanuele Valeri,MF,27,Parma,3000000.0,115833.33,Moderado
+139,Federico Valverde,MF,28,Real Madrid,90000000.0,1389166.67,Moderado
+140,Virgil van Dijk,DF,35,Liverpool,15000000.0,1717436.75,Moderado
+141,Danilo Veiga,DF,24,Lecce,2500000.0,38333.33,Baixo
+142,Renato Veiga,DF,23,Villarreal,25000000.0,312500.0,Moderado
+143,Bart Verbruggen,GK,24,Brighton,40000000.0,171743.67,Baixo
+144,Nico Williams,MF,25,Nottingham,28000000.0,318952.58,Alto
+145,Lamine Yamal,FW,19,Barcelona,200000000.0,139166.67,Moderado
