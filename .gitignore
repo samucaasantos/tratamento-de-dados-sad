@@ -1,0 +1,80 @@
+# ==============================================================================
+# FootDecision SAD - .gitignore
+# ==============================================================================
+
+# ------------------------------------------------------------------------------
+# 1. Arquivos de Dados Muito Grandes (> 100 MB / Bloqueados pelo GitHub)
+# O GitHub rejeita commits com arquivos individuais > 100 MB (limite rígido).
+# ------------------------------------------------------------------------------
+transfermarket/game_lineups.csv        # 415.98 MB (Bloqueio crítico no GitHub)
+transfermarket/appearances.csv         # 198.40 MB (Bloqueio crítico no GitHub)
+transfermarket/game_events.csv         # 179.10 MB (Bloqueio crítico no GitHub)
+
+# Demais bases brutas pesadas do Transfermarkt (> 10 MB a 40 MB)
+transfermarket/player_valuations.csv   # 39.65 MB
+transfermarket/games.csv               # 28.97 MB
+transfermarket/players.csv             # 19.62 MB
+transfermarket/transfers.csv           # 18.11 MB
+transfermarket/club_games.csv          # 14.75 MB
+
+# Ignorar todo o diretório de dados brutos pesados do Transfermarkt (~907 MB total)
+transfermarket/
+
+# ------------------------------------------------------------------------------
+# 2. Ambientes Virtuais e Caches Python
+# ------------------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Ambientes Virtuais
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter Notebook Caches
+.ipynb_checkpoints
+
+# ------------------------------------------------------------------------------
+# 3. Configurações de IDEs e Editores
+# ------------------------------------------------------------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ------------------------------------------------------------------------------
+# 4. Arquivos do Sistema Operacional (Windows / macOS)
+# ------------------------------------------------------------------------------
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+._*
+
+# ------------------------------------------------------------------------------
+# 5. Logs e Temporários
+# ------------------------------------------------------------------------------
+*.log
+*.tmp
+*.temp
