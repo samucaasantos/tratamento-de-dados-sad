@@ -58,8 +58,9 @@ def generate_data_sql():
     lines.append("-- Populando tabelas 'players' e 'player_metrics' com clusters e rótulos inferidos")
     lines.append("-- =============================================================================")
     lines.append("")
-    lines.append("-- Limpeza prévia para garantir idempotência em reexecuções")
-    lines.append("TRUNCATE TABLE player_metrics, players RESTART IDENTITY CASCADE;")
+    lines.append("-- Limpeza prévia ANSI SQL (compatível com PostgreSQL e H2)")
+    lines.append("DELETE FROM player_metrics;")
+    lines.append("DELETE FROM players;")
     lines.append("")
     
     # --------------------------------------------------------------------------
@@ -67,9 +68,9 @@ def generate_data_sql():
     # --------------------------------------------------------------------------
     lines.append("-- -----------------------------------------------------------------------------")
     lines.append(f"-- 1. INSERTS NA TABELA players ({len(df_players)} registros)")
-    lines.append("-- Colunas: id, name, position, age, current_club, market_value, salary, injury_risk")
+    lines.append("-- Colunas: id, name, position, age, current_club, market_value, fair_market_value, salary, injury_risk")
     lines.append("-- -----------------------------------------------------------------------------")
-    lines.append("INSERT INTO players (id, name, position, age, current_club, market_value, salary, injury_risk) VALUES")
+    lines.append("INSERT INTO players (id, name, position, age, current_club, market_value, fair_market_value, salary, injury_risk) VALUES")
     
     player_values = []
     for _, row in df_players.iterrows():
@@ -79,15 +80,16 @@ def generate_data_sql():
         age = format_sql_int(row['age'])
         club = escape_sql_string(row['current_club'])
         m_val = format_sql_number(row['market_value'], 2)
+        fm_val = format_sql_number(row['fair_market_value'], 2)
         salary = format_sql_number(row['salary'], 2)
         risk = escape_sql_string(row['injury_risk'])
         
-        player_values.append(f"  ({p_id}, {name}, {pos}, {age}, {club}, {m_val}, {salary}, {risk})")
+        player_values.append(f"  ({p_id}, {name}, {pos}, {age}, {club}, {m_val}, {fm_val}, {salary}, {risk})")
         
     lines.append(",\n".join(player_values) + ";")
     lines.append("")
-    lines.append("-- Sincronização da sequence do id da tabela players")
-    lines.append("SELECT setval('players_id_seq', (SELECT MAX(id) FROM players));")
+    lines.append("-- Sincronização da sequence do id da tabela players (descomente se usar PostgreSQL puro)")
+    lines.append("-- SELECT setval('players_id_seq', (SELECT MAX(id) FROM players));")
     lines.append("")
     
     # --------------------------------------------------------------------------

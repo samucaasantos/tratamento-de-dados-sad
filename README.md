@@ -62,7 +62,7 @@ Tratamento-de-dados-sad/
 │   └── export_sql.py                       # Etapa 3: Geração automatizada do script relacional data.sql
 │
 └── result/                                 # [Saída] Artefatos consolidados prontos para o Backend e Banco
-    ├── players_cleaned.csv                 # Tabela 'players' higienizada (8 colunas do schema PostgreSQL)
+    ├── players_cleaned.csv                 # Tabela 'players' higienizada (9 colunas do schema PostgreSQL)
     ├── player_metrics_cleaned.csv          # Tabela 'player_metrics' higienizada (14 colunas do schema PostgreSQL)
     ├── players_analyzed.csv                # Base analítica expandida (inclui Fair Market Value e lesões brutas)
     ├── models_metadata.json                # Centroides, escalonadores, pesos e métricas para o motor Java
@@ -106,7 +106,7 @@ O script [`scripts/train_ml_models.py`](./scripts/train_ml_models.py) treina qua
 O script [`scripts/export_sql.py`](./scripts/export_sql.py) converte os CSVs finais em instruções SQL compatíveis com o modelo relacional 1:1 do PostgreSQL:
 
 - **Tabela `players` ([`players_cleaned.csv`](./result/players_cleaned.csv)):**
-  - `id`, `name`, `position`, `age`, `current_club`, `market_value`, `salary`, `injury_risk`
+  - `id`, `name`, `position`, `age`, `current_club`, `market_value`, `fair_market_value`, `salary`, `injury_risk`
 - **Tabela `player_metrics` ([`player_metrics_cleaned.csv`](./result/player_metrics_cleaned.csv)):**
   - `player_id`, `minutes_played`, `cluster_id`, `progressive_passes_p90`, `tackles_p90`, `sca_p90`, `progressive_carries_p90`, `expected_goals_p90`, `expected_assists_p90`, `goals_conceded_p90`, `save_percentage`, `clean_sheet_percentage`, `shots_on_target_against_p90`, `penalties_saved_p90`
 

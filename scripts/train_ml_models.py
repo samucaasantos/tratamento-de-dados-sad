@@ -278,14 +278,14 @@ def run_ml_pipeline():
     print("[6] CONSOLIDAÇÃO E ATUALIZAÇÃO DOS ARQUIVOS EM RESULT/")
     print("-" * 80)
     
-    # 1. Tabela players conforme Schema PostgreSQL exato (8 colunas)
+    # 1. Tabela players conforme Schema PostgreSQL + fair_market_value (9 colunas)
     players_schema_cols = [
         'id', 'name', 'position', 'age', 'current_club',
-        'market_value', 'salary', 'injury_risk'
+        'market_value', 'fair_market_value', 'salary', 'injury_risk'
     ]
     df_players_final = df[players_schema_cols].copy()
     df_players_final.to_csv(players_csv_path, index=False)
-    print(f"  -> Atualizado com sucesso: {players_csv_path} ({len(df_players_final)} registros, 8 colunas)")
+    print(f"  -> Atualizado com sucesso: {players_csv_path} ({len(df_players_final)} registros, 9 colunas)")
     
     # 2. Tabela player_metrics conforme Schema PostgreSQL exato (14 colunas)
     metrics_schema_cols = [
